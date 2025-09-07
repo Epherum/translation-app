@@ -401,6 +401,4 @@ st.markdown("""
 - **Offline specifications** represent typical ML Kit/on-device performance
 - **Character estimates** use industry-standard assumptions for voice and image content
 - **Free tier limits** reset monthly for all providers
-
-*Last updated: September 2024 - Pricing and features subject to provider changes*
 """)

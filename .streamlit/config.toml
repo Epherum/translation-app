@@ -1,0 +1,10 @@
+[theme]
+# Warm brown theme for Translation Cost Calculator
+primaryColor = "#8B4513"           # Saddle brown for buttons and accents
+backgroundColor = "#FDF5E6"        # Old lace cream background
+secondaryBackgroundColor = "#F5DEB3" # Wheat color for sidebar and cards
+textColor = "#2F1B14"             # Dark brown for text
+
+# Optional: Additional theme settings
+base = "light"                    # Use light theme as base
+font = "sans serif"               # Clean, professional font
